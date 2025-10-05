@@ -384,3 +384,56 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [02:43:22] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
 [02:43:37] [Server thread/INFO]: Narutouz201107 fell from a high place
 [02:43:44] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:43:48] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[02:43:54] [Server thread/INFO]: [JMD0705: Gave 1 [Water Bucket] to Narutouz201107]
+[02:43:55] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:44:05] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:44:21] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:44:39] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:44:43] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[02:45:06] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:45:17] [Server thread/INFO]: [JMD0705: Gave 1 [Water Bucket] to Narutouz201107]
+[02:45:18] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:45:22] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to Narutouz201107]
+[02:45:39] [Server thread/INFO]: Narutouz201107 was killed
+[02:45:39] [Server thread/INFO]: JMD0705 was killed
+[02:45:39] [Server thread/INFO]: [JMD0705: Killed 203 entities]
+[02:45:45] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:45:53] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[02:45:54] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[02:46:03] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:46:14] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[02:46:50] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:46:55] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:47:11] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:47:22] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:47:23] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:47:37] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:47:45] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:47:55] [Server thread/INFO]: [JMD0705: Teleported Narutouz201107 to JMD0705]
+[02:49:40] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:49:51] [Server thread/INFO]: JMD0705 has made the advancement [Take Aim]
+[02:50:24] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:50:40] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:50:48] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:50:55] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[02:51:04] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:51:11] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:51:16] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:51:21] [Server thread/INFO]: JMD0705 experienced kinetic energy
+[02:51:23] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:51:38] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[02:51:50] [Server thread/INFO]: [JMD0705: Set own game mode to Creative Mode]
+[02:51:52] [Server thread/INFO]: Narutouz201107 has reached the goal [Sky's the Limit]
+[02:52:00] [Server thread/INFO]: luis919[/127.4.173.255:57731] logged in with entity id 42698 at (-14.5, 71.0, 24.5)
+[02:52:00] [Server thread/INFO]: luis919 joined the game
+[02:52:14] [Server thread/INFO]: [Narutouz201107: Made luis919 a server operator]
+[02:52:39] [Server thread/INFO]: [JMD0705: Gave 1 [Water Bucket] to luis919]
+[02:52:50] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:52:58] [Server thread/INFO]: luis919 has made the advancement [The End?]
+[02:52:58] [Server thread/INFO]: [JMD0705: Teleported luis919 to JMD0705]
+[02:53:14] [Server thread/INFO]: luis919 fell from a high place
+[02:53:21] [Server thread/INFO]: [JMD0705: Teleported luis919 to JMD0705]
+[02:53:32] [Server thread/INFO]: Narutouz201107 fell from a high place
+[02:53:37] [Server thread/INFO]: luis919 fell from a high place
+[02:53:39] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
