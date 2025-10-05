@@ -167,3 +167,115 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [01:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
 [01:31:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1118, y=42, z=-931} jb{x=-1118, y=43, z=-931}
 [01:32:26] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:32:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1116, y=42, z=-929} jb{x=-1116, y=43, z=-929}
+[01:34:14] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 41.000000, -143.500000]
+[01:34:18] [Server thread/INFO]: JMD0705 suffocated in a wall
+[01:34:29] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[01:34:35] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 70.000000, -143.500000]
+[01:34:42] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[01:34:48] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:36:23] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -799.500000, 50.000000, -847.500000]
+[01:36:54] [Server thread/INFO]: Locating element minecraft:ocean_ruin_cold took 0 ms
+[01:37:01] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 53.000000, -143.500000]
+[01:37:06] [Server thread/INFO]: JMD0705 suffocated in a wall
+[01:37:14] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[01:37:17] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 68.000000, -143.500000]
+[01:37:43] [Server thread/INFO]: Locating element minecraft:ocean_ruin_cold took 0 ms
+[01:37:50] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 1 ms
+[01:37:54] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to -1119.500000, 64.000000, -927.500000]
+[01:37:59] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 0 ms
+[01:38:19] [Server thread/WARN]: JMD0705 moved too quickly! 9.769268150924063,0.0,3.6976360261420878
+[01:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[01:38:22] [Server thread/WARN]: JMD0705 moved too quickly! 10.27442802493806,0.0,3.3706255052674954
+[01:38:28] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 0 ms
+[01:38:35] [Server thread/INFO]: Locating element minecraft:trail_ruins took 30 ms
+[01:38:39] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -2543.500000, 62.737659, -303.500000]
+[01:38:46] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6777ms or 135 ticks behind
+[01:38:49] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[01:39:21] [Server thread/INFO]: Locating element minecraft:ancient_city took 1228 ms
+[01:39:25] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to 240.500000, 61.244154, 2928.500000]
+[01:39:40] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13864ms or 277 ticks behind
+[01:40:26] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[01:40:30] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[01:40:33] [Server thread/INFO]: Narutouz201107 has made the advancement [Sneak 100]
+[01:40:50] [Server thread/INFO]: JMD0705 has made the advancement [Sneak 100]
+[01:41:25] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[01:41:53] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[01:42:16] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[01:42:30] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:42:40] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[01:50:09] [Server thread/INFO]: JMD0705 has made the advancement [Diamonds!]
+[01:50:48] [Server thread/INFO]: Narutouz201107 drowned
+[01:50:55] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:53:40] [Server thread/WARN]: JMD0705 moved too quickly! 2.2764728794266773,3.0,9.513680460812338
+[01:53:41] [Server thread/INFO]: Narutouz201107 lost connection: Timed out
+[01:53:41] [Server thread/INFO]: Narutouz201107 left the game
+[01:53:41] [Server thread/WARN]: handleDisconnection() called twice
+[01:53:56] [Server thread/INFO]: Narutouz201107[/127.24.178.23:37995] logged in with entity id 27227 at (163.568620044241, -44.768476202412984, 2949.138376665879)
+[01:53:56] [Server thread/INFO]: Narutouz201107 joined the game
+[01:57:36] [Server thread/INFO]: Narutouz201107 was obliterated by a sonically-charged shriek
+[01:57:57] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:57:57] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[01:58:15] [Server thread/INFO]: Narutouz201107 was slain by Warden
+[01:58:33] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:58:49] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[01:58:54] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:59:48] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to Narutouz201107]
+[01:59:52] [Server thread/INFO]: Narutouz201107 was slain by Warden
+[02:00:01] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:00:48] [Server thread/INFO]: [JMD0705: Set own game mode to Creative Mode]
+[02:01:00] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:01:26] [Server thread/INFO]: Narutouz201107 was slain by Warden
+[02:01:35] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:01:56] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[02:02:09] [Server thread/INFO]: Narutouz201107 was slain by Warden
+[02:02:17] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:02:24] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[02:03:52] [Server thread/INFO]: [JMD0705: Set own game mode to Creative Mode]
+[02:03:53] [Server thread/INFO]: Narutouz201107 was obliterated by a sonically-charged shriek
+[02:04:05] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:04:09] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[02:04:21] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[02:05:22] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:05:55] [Server thread/INFO]: JMD0705 was obliterated by a sonically-charged shriek
+[02:06:34] [Server thread/INFO]: Locating element minecraft:trail_ruins took 19 ms
+[02:06:38] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to 400.500000, 71.000000, -703.500000]
+[02:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6953ms or 139 ticks behind
+[02:06:47] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[02:06:48] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:07:50] [Server thread/INFO]: Locating element minecraft:trial_chambers took 0 ms
+[02:07:54] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to 64.500000, 49.262844, -991.500000]
+[02:08:06] [Server thread/WARN]: Narutouz201107 moved too quickly! -8.917989729380452,-4.784105654461271,-1.0833528933659409
+[02:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11530ms or 230 ticks behind
+[02:08:12] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[02:08:27] [Server thread/INFO]: JMD0705 has made the advancement [Minecraft: Trial(s) Edition]
+[02:08:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:08:27] [Server thread/INFO]: 		time set mode day<--[HERE]
+[02:08:34] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:08:34] [Server thread/INFO]: Narutouz201107 has made the advancement [Minecraft: Trial(s) Edition]
+[02:08:35] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[02:08:41] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:09:09] [Server thread/INFO]: JMD0705 was slain by Zombie
+[02:09:11] [Server thread/INFO]: Narutouz201107 has made the advancement [Not Today, Thank You]
+[02:09:31] [Server thread/INFO]: Locating element minecraft:stronghold took 7 ms
+[02:09:41] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[02:09:44] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to 1776.500000, 69.000000, -431.500000]
+[02:09:54] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[02:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9372ms or 187 ticks behind
+[02:10:10] [Server thread/INFO]: JMD0705 has made the advancement [Eye Spy]
+[02:10:13] [Server thread/INFO]: [Narutouz201107: The difficulty has been set to Peaceful]
+[02:10:17] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:10:29] [Server thread/INFO]: [JMD0705: Set own game mode to Creative Mode]
+[02:11:12] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[02:11:13] [Server thread/INFO]: Narutouz201107 has made the advancement [Eye Spy]
+[02:11:25] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[02:11:55] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[02:12:09] [Server thread/INFO]: JMD0705 has made the advancement [The End?]
+[02:12:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:12:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[02:12:25] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[02:12:26] [Server thread/INFO]: Narutouz201107 has made the advancement [The End?]
+[02:12:35] [Server thread/INFO]: [JMD0705: Set own game mode to Creative Mode]
