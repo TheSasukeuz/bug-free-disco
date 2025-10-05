@@ -12,8 +12,10 @@
       "minecraft:old_growth_pine_taiga": "2025-10-05 01:25:59 +0000",
       "minecraft:forest": "2025-10-05 01:11:24 +0000",
       "minecraft:taiga": "2025-10-05 01:38:46 +0000",
+      "minecraft:sparse_jungle": "2025-10-05 02:09:54 +0000",
       "minecraft:river": "2025-10-05 00:40:06 +0000",
       "minecraft:lukewarm_ocean": "2025-10-05 01:18:38 +0000",
+      "minecraft:stony_shore": "2025-10-05 02:10:13 +0000",
       "minecraft:lush_caves": "2025-10-05 01:19:08 +0000",
       "minecraft:dripstone_caves": "2025-10-05 02:07:24 +0000",
       "minecraft:frozen_river": "2025-10-05 01:38:56 +0000",
@@ -834,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-10-05 02:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-10-05 01:50:09 +0000"
@@ -975,6 +983,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-10-05 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-10-05 02:10:35 +0000"
     },
     "done": true
   },
@@ -1135,9 +1149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-10-05 02:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-10-05 01:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-10-05 02:16:45 +0000"
     },
     "done": true
   },
@@ -1210,6 +1236,18 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-10-05 02:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-05 02:10:51 +0000"
     },
     "done": true
   },
@@ -1346,9 +1384,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-10-05 02:10:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-05 01:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-10-05 02:12:09 +0000"
     },
     "done": true
   },
@@ -1670,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-10-05 02:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-05 01:06:08 +0000"
@@ -1727,6 +1783,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-10-05 01:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-10-05 02:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-10-05 02:16:45 +0000"
     },
     "done": true
   },
@@ -1829,6 +1897,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-10-05 01:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-10-05 02:12:09 +0000"
     },
     "done": true
   },
