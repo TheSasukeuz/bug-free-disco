@@ -125,3 +125,45 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [01:11:11] [Server thread/WARN]: Acacia Boat (vehicle of JMD0705) moved wrongly! 0.9059564763177264
 [01:12:00] [Server thread/INFO]: Narutouz201107 was slain by Zombie
 [01:12:09] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:15:11] [Server thread/INFO]: Narutouz201107 has made the advancement [We Need to Go Deeper]
+[01:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5323ms or 106 ticks behind
+[01:15:14] [Server thread/INFO]: JMD0705 has made the advancement [We Need to Go Deeper]
+[01:15:55] [Server thread/INFO]: JMD0705 tried to swim in lava
+[01:16:10] [Server thread/INFO]: [Narutouz201107: Teleported JMD0705 to Narutouz201107]
+[01:17:09] [Server thread/INFO]: Narutouz201107 tried to swim in lava to escape Magma Cube
+[01:17:16] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:17:32] [Server thread/INFO]: Narutouz201107 tried to swim in lava to escape Magma Cube
+[01:17:36] [Server thread/INFO]: JMD0705 was slain by Magma Cube
+[01:18:16] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
+[01:18:16] [Server thread/INFO]: [Narutouz201107: Set JMD0705's game mode to Spectator Mode]
+[01:18:26] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 71 ms
+[01:18:29] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -799.500000, 67.000000, -847.500000]
+[01:18:38] [Server thread/WARN]: Narutouz201107 moved too quickly! 3.5192968057376675,0.0,-9.459784353951449
+[01:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7923ms or 158 ticks behind
+[01:18:45] [Server thread/WARN]: Narutouz201107 moved too quickly! 4.319305896856761,0.0,-9.398714839096272
+[01:18:45] [Server thread/WARN]: JMD0705 moved too quickly! -7.8549056714169865,0.0,6.334035064222121
+[01:19:21] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:20:16] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[01:20:21] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[01:20:55] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:24:37] [Server thread/INFO]: JMD0705 has made the advancement [Respecting the Remnants]
+[01:25:15] [Server thread/INFO]: Locating element minecraft:ocean_ruin_cold took 23 ms
+[01:25:19] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 61.665521, -143.500000]
+[01:25:25] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6376ms or 127 ticks behind
+[01:25:32] [Server thread/INFO]: Narutouz201107 was slain by JMD0705
+[01:25:32] [Server thread/INFO]: JMD0705 suffocated in a wall while fighting Narutouz201107
+[01:25:43] [Server thread/INFO]: [JMD0705: Set own game mode to Spectator Mode]
+[01:25:55] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1471.500000, 76.000000, -143.500000]
+[01:26:11] [Server thread/INFO]: [JMD0705: Set own game mode to Survival Mode]
+[01:26:13] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
+[01:27:44] [Server thread/INFO]: JMD0705 has made the advancement [Sweet Dreams]
+[01:27:50] [Server thread/INFO]: Narutouz201107 has made the advancement [Sweet Dreams]
+[01:29:41] [Server thread/INFO]: Narutouz201107 has made the advancement [Respecting the Remnants]
+[01:31:20] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 44 ms
+[01:31:25] [Server thread/INFO]: [JMD0705: Teleported JMD0705 to -1119.500000, 64.000000, -927.500000]
+[01:31:26] [Server thread/WARN]: JMD0705 moved too quickly! 0.0,-10.80652611000901,0.0
+[01:31:30] [Server thread/WARN]: JMD0705 moved too quickly! 0.0,-10.80652611000901,0.0
+[01:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[01:31:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1118, y=42, z=-931} jb{x=-1118, y=43, z=-931}
+[01:32:26] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to JMD0705]
