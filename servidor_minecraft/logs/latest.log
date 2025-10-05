@@ -1,0 +1,94 @@
+[00:32:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:32:08] [ServerMain/INFO]: No existing world data, creating new world
+[00:32:09] [ServerMain/INFO]: Loaded 1407 recipes
+[00:32:09] [ServerMain/INFO]: Loaded 1520 advancements
+[00:32:09] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:32:09] [Server thread/INFO]: Loading properties
+[00:32:09] [Server thread/INFO]: Default game type: SURVIVAL
+[00:32:09] [Server thread/INFO]: Generating keypair
+[00:32:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:32:10] [Server thread/INFO]: Using epoll channel type
+[00:32:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:32:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:32:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:32:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:32:10] [Server thread/INFO]: Preparing level "world"
+[00:32:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:32:23] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:24] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:24] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:32:32] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[00:32:32] [Server thread/INFO]: Time elapsed: 8603 ms
+[00:32:32] [Server thread/INFO]: Done (22.099s)! For help, type "help"
+[00:33:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:37:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:37:33] [Server thread/INFO]: ls<--[HERE]
+[00:37:42] [Server thread/INFO]: JMD0705[/127.187.116.180:44343] logged in with entity id 63 at (-17.5, 71.0, 19.5)
+[00:37:42] [Server thread/INFO]: JMD0705 joined the game
+[00:37:43] [Server thread/WARN]: Couldn't find profile with name: narutouz201107
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name narutouz201107
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
+	at axx.a(SourceFile:80) ~[server-1.21.8.jar:?]
+	at axx.a(SourceFile:137) ~[server-1.21.8.jar:?]
+	at fa.a(SourceFile:65) ~[server-1.21.8.jar:?]
+	at fa.a(SourceFile:31) ~[server-1.21.8.jar:?]
+	at apc.a(SourceFile:33) ~[server-1.21.8.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at hx.a(SourceFile:29) ~[server-1.21.8.jar:?]
+	at hx.execute(SourceFile:13) ~[server-1.21.8.jar:?]
+	at hs.a(SourceFile:8) ~[server-1.21.8.jar:?]
+	at hk.a(SourceFile:8) ~[server-1.21.8.jar:?]
+	at ho.a(SourceFile:107) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:420) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:350) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:336) ~[server-1.21.8.jar:?]
+	at ari.br(SourceFile:300) ~[server-1.21.8.jar:?]
+	at ari.G(SourceFile:282) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:1074) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:947) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:707) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:291) ~[server-1.21.8.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:37:43] [Server thread/INFO]: Made narutouz201107 a server operator
+[00:37:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-26, y=70, z=24}
+[00:37:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-26, y=69, z=24}
+[00:37:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-26, y=71, z=24}
+[00:38:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-26, y=70, z=24}
+[00:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-26, y=69, z=24}
+[00:38:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-22, y=70, z=20}
+[00:39:25] [Server thread/WARN]: JMD0705 moved too quickly! -5.026821100229142,-0.2468000194787976,-8.927755800621178
+[00:44:24] [Server thread/INFO]: JMD0705 was slain by Iron Golem
+[00:45:50] [Server thread/INFO]: JMD0705 has made the advancement [Acquire Hardware]
+[00:45:57] [Server thread/INFO]: JMD0705 lost connection: Disconnected
+[00:45:57] [Server thread/INFO]: JMD0705 left the game
+[00:46:16] [Server thread/INFO]: Incorrect argument for command
+[00:46:16] [Server thread/INFO]: gamerule keepgamerule keepInventory true<--[HERE]
+[00:46:47] [Server thread/INFO]: Narutouz201107[/127.24.178.23:54091] logged in with entity id 3449 at (-19.5, 71.0, 18.5)
+[00:46:47] [Server thread/INFO]: Narutouz201107 joined the game
+[00:47:10] [Server thread/INFO]: JMD0705[/127.187.116.180:42757] logged in with entity id 3788 at (74.15973370378329, 64.0, -228.6400322429934)
+[00:47:11] [Server thread/INFO]: JMD0705 joined the game
+[00:47:35] [Server thread/INFO]: JMD0705 lost connection: Disconnected
+[00:47:35] [Server thread/INFO]: JMD0705 left the game
+[00:48:23] [Server thread/INFO]: Narutouz201107 has made the advancement [Ice Bucket Challenge]
+[00:48:45] [Server thread/INFO]: Narutouz201107 was slain by Zombie
+[00:49:00] [Server thread/INFO]: Made Narutouz201107 a server operator
+[00:49:09] [Server thread/INFO]: [Narutouz201107: Gamerule keepInventory is now set to: true]
+[00:49:53] [Server thread/INFO]: JMD0705[/127.187.116.180:59849] logged in with entity id 4928 at (67.01670588190801, 62.9375, -208.6808699655616)
+[00:49:53] [Server thread/INFO]: JMD0705 joined the game
+[00:50:58] [Server thread/INFO]: JMD0705 has made the advancement [Isn't It Iron Pick]
